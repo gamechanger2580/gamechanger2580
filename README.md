@@ -3,7 +3,6 @@
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamechanger2580&label=Profile%20views&color=0e75b6&style=flat" alt="gamechanger2580" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamechanger2580&theme=" alt="gamechanger2580" /></a> </p>
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
 - 🌱 I’m currently learning **Node , Express , PostgreSQL**
@@ -53,9 +52,6 @@
 <div align="center">
 <a href="https://github.com/gamechanger2580">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamechanger2580&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamechanger2580&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamechanger2580&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamechanger2580&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamechanger2580&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
