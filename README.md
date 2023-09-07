@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/d1bf8c53-23d6-4994-b456-1130cd9b326f)
+
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamechanger2580&label=Profile%20views&color=0e75b6&style=flat" alt="gamechanger2580" /> </p>
