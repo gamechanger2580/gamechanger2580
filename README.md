@@ -1,4 +1,5 @@
-![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/8a0781fb-c025-4f93-a757-e4ad47f851b0)
+![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/ff88f7e5-4229-4bb0-bab5-6aa397ec56a8)
+
 
 
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
