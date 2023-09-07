@@ -3,8 +3,6 @@
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamechanger2580&label=Profile%20views&color=0e75b6&style=flat" alt="gamechanger2580" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamechanger2580&theme=" alt="gamechanger2580" /></a> </p>
-
 - 🔭 I’m currently studying **Computer Science and Engineering**
 - 🌱 I’m currently learning **Node , Express , PostgreSQL**
 - 💬 Ask me about **Python, C++ , Anime 🍜**
