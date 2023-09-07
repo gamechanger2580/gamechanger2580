@@ -1,6 +1,4 @@
-![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/ff88f7e5-4229-4bb0-bab5-6aa397ec56a8)
-
-
+![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/fc8e57d7-86b1-4937-8cd2-33946d20fa6e)
 
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
