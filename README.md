@@ -1,4 +1,4 @@
-![image](https://github.com/gamechanger2580/gamechanger2580/assets/52589175/b2bc3a09-2668-4e18-91b4-4528b4750623)
+https://pfps.gg/assets/banners/8964-roronoa-zoro.gif
 
 
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
