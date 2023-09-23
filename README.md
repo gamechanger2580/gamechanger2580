@@ -1,4 +1,3 @@
-https://pfps.gg/assets/banners/8964-roronoa-zoro.gif
 
 
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
