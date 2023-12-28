@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python, C++ , Anime 🍜**
 - 📫 How to reach me **loukik2580@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/gamechanger2580?tab=repositories**
-- ⚡ Fun fact **I am an Anime Lover 🍜 and a Gamer 🎮.**
+- ⚡ Fun fact **I am an Otaku 🍜 and a Gamer 🎮.**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
