@@ -1,8 +1,7 @@
 
-
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamechanger2580&label=Profile%20views&color=0e75b6&style=flat" alt="gamechanger2580" /> </p>
 
 
 
