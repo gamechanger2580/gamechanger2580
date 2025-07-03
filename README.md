@@ -1,5 +1,4 @@
 
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Loukik Tayshete</h1>
 <h3 align="center">I am a Full Stack Developer with Interest in Game Development</h3>
 
